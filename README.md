@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Julian, and I use the online alias Umi.
+My name is Julian
 
 I enjoy making games and working on game enginges.
 
