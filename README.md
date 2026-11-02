@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Julian
 
-I enjoy making games and working on game enginges.
+I enjoy making games and working on game engines.
 
 You can find me on discord @ umi_l
 
